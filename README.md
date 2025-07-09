@@ -65,10 +65,12 @@ The Equality Score is categorized into three classes based on the following rang
 | -20 to -11 or 11 to 20   | Unfair                   |
 | Less than -20 or over 20 | Highly Discriminative    |
 
-
 ## 🧮 Formula Used in Excel
+
 ```excel
 =IF(ABS(C2)<=10, "Fair", IF(ABS(C2)<=20, "Unfair", "Highly Discriminative"))
+
+```
 
 ## ✅ Outcome
 
@@ -87,6 +89,7 @@ The Equality Score is categorized into three classes based on the following rang
 - Business Insight Interpretation  
 - Data-Driven Decision Support
 
+---
 
 ## 📅 Completion
 
@@ -94,4 +97,3 @@ The Equality Score is categorized into three classes based on the following rang
 - 🌐 **Platform:** Forage  
 - 🏢 **Organization:** Deloitte Australia (Forensic Technology team simulation)  
 - 🔗 **Program Link:** [Deloitte Australia – Data Analytics Job Simulation (Forage)](https://www.theforage.com/virtual-internships/prototype/TzTg5R9AqtnnB2mJ6/Deloitte-Australia-Data-Analytics-Virtual-Internship)
-
