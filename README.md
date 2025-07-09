@@ -5,8 +5,6 @@ This repository contains completed tasks from the Deloitte Australia Virtual Int
 ## 🧠 Overview
 Completed a self-paced internship focused on real-world data analytics and forensic technology applications. Tasks included interactive data dashboards and classification of equality scores.
 
-## 📁 Tasks
-
 ### 📊 Task 1: Daikibo Telemetry Dashboard
 
 ## 🎯 Objective
@@ -51,7 +49,7 @@ Analyze machine downtime data from four factories and identify where machines br
 ## 🎯 Objective
 Classify the level of gender pay equality per job role and location based on provided Equality Scores.
 
-## 📁 Files
+## 📁 Data
 - `Equality Table.xlsx`: Original file
 - `Updated_Equality_Table.xlsx`: With classification column added
 
